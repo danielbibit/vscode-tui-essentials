@@ -1,8 +1,19 @@
 {
   "name": "tui-essentials",
   "displayName": "tui-essentials",
+  "publisher": "danielbibit",
+  "author": {
+    "name": "Daniel Moraes",
+    "url": "https://moraes.dev.br"
+  },
+  "homepage": "https://github.com/danielbibit/vscode-tui-essentials",
+  "license": "GPL-3.0-only",
   "description": "Manages basic TUI tools for VSCode",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbibit/vscode-tui-essentials.git"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
